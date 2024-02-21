@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+#faiss-cpu
+#pip install -q -U google-generativeai
+pdf2image
+#pip install pdf2image
+#pip install python-dateutil
+#conda install -c conda-forge poppler 

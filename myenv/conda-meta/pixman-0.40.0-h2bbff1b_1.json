@@ -1,0 +1,59 @@
+{
+  "build": "h2bbff1b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Shamshad ahmed\\.conda\\pkgs\\pixman-0.40.0-h2bbff1b_1",
+  "files": [
+    "Library/include/pixman/pixman-version.h",
+    "Library/include/pixman/pixman.h",
+    "Library/lib/pixman-1.lib"
+  ],
+  "fn": "pixman-0.40.0-h2bbff1b_1.conda",
+  "legacy_bz2_md5": "c62f32977c25875ced94e930d942db6b",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Shamshad ahmed\\.conda\\pkgs\\pixman-0.40.0-h2bbff1b_1",
+    "type": 1
+  },
+  "md5": "afefb10072a20a26a97964c659743e19",
+  "name": "pixman",
+  "package_tarball_full_path": "C:\\Users\\Shamshad ahmed\\.conda\\pkgs\\pixman-0.40.0-h2bbff1b_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/include/pixman/pixman-version.h",
+        "path_type": "hardlink",
+        "sha256": "599ec911a0e74f06478b11d285d723c1f52daa96f8a64afa96ab8bb8d95c2c29",
+        "sha256_in_prefix": "599ec911a0e74f06478b11d285d723c1f52daa96f8a64afa96ab8bb8d95c2c29",
+        "size_in_bytes": 1786
+      },
+      {
+        "_path": "Library/include/pixman/pixman.h",
+        "path_type": "hardlink",
+        "sha256": "6f20da43029984c7ac880adb9302cc52af293f6c864a00d270433701393ca57b",
+        "sha256_in_prefix": "6f20da43029984c7ac880adb9302cc52af293f6c864a00d270433701393ca57b",
+        "size_in_bytes": 47735
+      },
+      {
+        "_path": "Library/lib/pixman-1.lib",
+        "path_type": "hardlink",
+        "sha256": "188801cde2cc2956dd6580bb11707f21e103c7ebbe3d5b344ed17664c1a08186",
+        "sha256_in_prefix": "188801cde2cc2956dd6580bb11707f21e103c7ebbe3d5b344ed17664c1a08186",
+        "size_in_bytes": 1824658
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "efa9367002ea559fb5aa79455e3fdeaac009303ea51ea0116bb607070a0f0337",
+  "size": 412023,
+  "subdir": "win-64",
+  "timestamp": 1632711499953,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pixman-0.40.0-h2bbff1b_1.conda",
+  "version": "0.40.0"
+}

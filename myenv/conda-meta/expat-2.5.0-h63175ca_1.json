@@ -1,0 +1,146 @@
+{
+  "build": "h63175ca_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libexpat 2.5.0 h63175ca_1"
+  ],
+  "extracted_package_dir": "C:\\Users\\Shamshad ahmed\\.conda\\pkgs\\expat-2.5.0-h63175ca_1",
+  "files": [
+    "Library/bin/expat.dll",
+    "Library/bin/xmlwf.exe",
+    "Library/include/expat.h",
+    "Library/include/expat_config.h",
+    "Library/include/expat_external.h",
+    "Library/lib/cmake/expat-2.5.0/expat-config-version.cmake",
+    "Library/lib/cmake/expat-2.5.0/expat-config.cmake",
+    "Library/lib/cmake/expat-2.5.0/expat-release.cmake",
+    "Library/lib/cmake/expat-2.5.0/expat.cmake",
+    "Library/lib/expat.lib",
+    "Library/lib/libexpat.lib",
+    "Library/share/doc/expat/AUTHORS",
+    "Library/share/doc/expat/changelog",
+    "Library/share/man/man1/xmlwf.1"
+  ],
+  "fn": "expat-2.5.0-h63175ca_1.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\Shamshad ahmed\\.conda\\pkgs\\expat-2.5.0-h63175ca_1",
+    "type": 1
+  },
+  "md5": "87c77fe1b445aedb5c6d207dd236fa3e",
+  "name": "expat",
+  "package_tarball_full_path": "C:\\Users\\Shamshad ahmed\\.conda\\pkgs\\expat-2.5.0-h63175ca_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/expat.dll",
+        "path_type": "hardlink",
+        "sha256": "2a48a63b5a67cdf935324adfd4401863a8d40b9089785dd3dd34fe0aea1d8cea",
+        "sha256_in_prefix": "2a48a63b5a67cdf935324adfd4401863a8d40b9089785dd3dd34fe0aea1d8cea",
+        "size_in_bytes": 401920
+      },
+      {
+        "_path": "Library/bin/xmlwf.exe",
+        "path_type": "hardlink",
+        "sha256": "9e993686bf54a442657ada981b8c56dca667375d366e8d46f8b5cbab3652204c",
+        "sha256_in_prefix": "9e993686bf54a442657ada981b8c56dca667375d366e8d46f8b5cbab3652204c",
+        "size_in_bytes": 225280
+      },
+      {
+        "_path": "Library/include/expat.h",
+        "path_type": "hardlink",
+        "sha256": "f521acdad222644365b0e81a33bcd6939a98c91b225c47582cc84bd73d96febc",
+        "sha256_in_prefix": "f521acdad222644365b0e81a33bcd6939a98c91b225c47582cc84bd73d96febc",
+        "size_in_bytes": 43535
+      },
+      {
+        "_path": "Library/include/expat_config.h",
+        "path_type": "hardlink",
+        "sha256": "6d877db3272621c8e3bae3afb49d9e217cb3092d80d36e32dd0b8341c8b62a55",
+        "sha256_in_prefix": "6d877db3272621c8e3bae3afb49d9e217cb3092d80d36e32dd0b8341c8b62a55",
+        "size_in_bytes": 3425
+      },
+      {
+        "_path": "Library/include/expat_external.h",
+        "path_type": "hardlink",
+        "sha256": "7ca9ed28dd5e08eac425931894fabd4c876db8f4be26f9b9a33c2e4f70a0d6c3",
+        "sha256_in_prefix": "7ca9ed28dd5e08eac425931894fabd4c876db8f4be26f9b9a33c2e4f70a0d6c3",
+        "size_in_bytes": 6029
+      },
+      {
+        "_path": "Library/lib/cmake/expat-2.5.0/expat-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "a8d8382193e213dd2a5fa956c2697dd8bec0f736b562e93c3b5d9ab32ef2c8e2",
+        "sha256_in_prefix": "a8d8382193e213dd2a5fa956c2697dd8bec0f736b562e93c3b5d9ab32ef2c8e2",
+        "size_in_bytes": 2827
+      },
+      {
+        "_path": "Library/lib/cmake/expat-2.5.0/expat-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "275dd795ba90ff99bb31fffd6c495c8037124ab1c80a0edef671d5b6ce02ef89",
+        "sha256_in_prefix": "275dd795ba90ff99bb31fffd6c495c8037124ab1c80a0edef671d5b6ce02ef89",
+        "size_in_bytes": 3736
+      },
+      {
+        "_path": "Library/lib/cmake/expat-2.5.0/expat-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "da895f346e9e2047ea6e83323d21dd7b1ec607567cc0ba7284b053f6e12de165",
+        "sha256_in_prefix": "da895f346e9e2047ea6e83323d21dd7b1ec607567cc0ba7284b053f6e12de165",
+        "size_in_bytes": 904
+      },
+      {
+        "_path": "Library/lib/cmake/expat-2.5.0/expat.cmake",
+        "path_type": "hardlink",
+        "sha256": "fbbf4735654c7a42349b122d8ee9c459a6c4f59ce09bee38666746fd8e538300",
+        "sha256_in_prefix": "fbbf4735654c7a42349b122d8ee9c459a6c4f59ce09bee38666746fd8e538300",
+        "size_in_bytes": 3984
+      },
+      {
+        "_path": "Library/lib/expat.lib",
+        "path_type": "hardlink",
+        "sha256": "1a152b6646f2982931ee370789bb3cca55f93f04cd3e3b29de531eddbe81a6a2",
+        "sha256_in_prefix": "1a152b6646f2982931ee370789bb3cca55f93f04cd3e3b29de531eddbe81a6a2",
+        "size_in_bytes": 17934
+      },
+      {
+        "_path": "Library/lib/libexpat.lib",
+        "path_type": "hardlink",
+        "sha256": "1a152b6646f2982931ee370789bb3cca55f93f04cd3e3b29de531eddbe81a6a2",
+        "sha256_in_prefix": "1a152b6646f2982931ee370789bb3cca55f93f04cd3e3b29de531eddbe81a6a2",
+        "size_in_bytes": 17934
+      },
+      {
+        "_path": "Library/share/doc/expat/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "59f14371c6b75912cfebb46e6247ee5146766e803a0365b124e5d3011e7d0877",
+        "sha256_in_prefix": "59f14371c6b75912cfebb46e6247ee5146766e803a0365b124e5d3011e7d0877",
+        "size_in_bytes": 142
+      },
+      {
+        "_path": "Library/share/doc/expat/changelog",
+        "path_type": "hardlink",
+        "sha256": "406aa4e92d585d5d71e243372c1129ed19b3cccef820f8de3464c013edfb2470",
+        "sha256_in_prefix": "406aa4e92d585d5d71e243372c1129ed19b3cccef820f8de3464c013edfb2470",
+        "size_in_bytes": 64807
+      },
+      {
+        "_path": "Library/share/man/man1/xmlwf.1",
+        "path_type": "hardlink",
+        "sha256": "30f1010fb8eac2333b1bf7a9c7927bbd25cc46e512aa42e307429aa52eda2650",
+        "sha256_in_prefix": "30f1010fb8eac2333b1bf7a9c7927bbd25cc46e512aa42e307429aa52eda2650",
+        "size_in_bytes": 10368
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3bcd88290cd462d5573c2923c796599d0dece2ff9d9c9d6c914d31e9c5881aaf",
+  "size": 226571,
+  "subdir": "win-64",
+  "timestamp": 1680190888036,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/expat-2.5.0-h63175ca_1.conda",
+  "version": "2.5.0"
+}

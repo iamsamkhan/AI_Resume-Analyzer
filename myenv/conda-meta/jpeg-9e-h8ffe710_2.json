@@ -1,0 +1,148 @@
+{
+  "build": "h8ffe710_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15",
+    "vs2015_runtime >=14.16.27033"
+  ],
+  "extracted_package_dir": "C:\\Users\\Shamshad ahmed\\.conda\\pkgs\\jpeg-9e-h8ffe710_2",
+  "files": [
+    "Library/bin/cjpeg.exe",
+    "Library/bin/djpeg.exe",
+    "Library/bin/jpegtran.exe",
+    "Library/bin/libjpeg.dll",
+    "Library/bin/rdjpgcom.exe",
+    "Library/bin/wrjpgcom.exe",
+    "Library/include/jconfig.h",
+    "Library/include/jerror.h",
+    "Library/include/jmorecfg.h",
+    "Library/include/jpegint.h",
+    "Library/include/jpeglib.h",
+    "Library/lib/jpeg.lib",
+    "Library/lib/libjpeg.lib",
+    "Library/lib/pkgconfig/libjpeg.pc"
+  ],
+  "fn": "jpeg-9e-h8ffe710_2.tar.bz2",
+  "license": "IJG",
+  "link": {
+    "source": "C:\\Users\\Shamshad ahmed\\.conda\\pkgs\\jpeg-9e-h8ffe710_2",
+    "type": 1
+  },
+  "md5": "733066523147548ce368a9bd0c8395af",
+  "name": "jpeg",
+  "package_tarball_full_path": "C:\\Users\\Shamshad ahmed\\.conda\\pkgs\\jpeg-9e-h8ffe710_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/cjpeg.exe",
+        "path_type": "hardlink",
+        "sha256": "0328065f25b79a9a4a985840c3f4ad18e1995a5bf450d68469a83427d74ba9ef",
+        "sha256_in_prefix": "0328065f25b79a9a4a985840c3f4ad18e1995a5bf450d68469a83427d74ba9ef",
+        "size_in_bytes": 38912
+      },
+      {
+        "_path": "Library/bin/djpeg.exe",
+        "path_type": "hardlink",
+        "sha256": "a43a9cb427cb5f66c86bb7a386e11466b872ba2c2b95d53150e4db99b0aa4208",
+        "sha256_in_prefix": "a43a9cb427cb5f66c86bb7a386e11466b872ba2c2b95d53150e4db99b0aa4208",
+        "size_in_bytes": 30208
+      },
+      {
+        "_path": "Library/bin/jpegtran.exe",
+        "path_type": "hardlink",
+        "sha256": "c58b397eda76606f669455dc8ce86207a1c417bc6be4af9a067d379f0fec9707",
+        "sha256_in_prefix": "c58b397eda76606f669455dc8ce86207a1c417bc6be4af9a067d379f0fec9707",
+        "size_in_bytes": 47104
+      },
+      {
+        "_path": "Library/bin/libjpeg.dll",
+        "path_type": "hardlink",
+        "sha256": "17cdb929117dcea4af0a87f8b948921f5e47130ab9e5d8616de3aac6433f7154",
+        "sha256_in_prefix": "17cdb929117dcea4af0a87f8b948921f5e47130ab9e5d8616de3aac6433f7154",
+        "size_in_bytes": 271872
+      },
+      {
+        "_path": "Library/bin/rdjpgcom.exe",
+        "path_type": "hardlink",
+        "sha256": "7010b62cf2dbaa923359d773554a57d205f876de39ecd636a2c6367e83499614",
+        "sha256_in_prefix": "7010b62cf2dbaa923359d773554a57d205f876de39ecd636a2c6367e83499614",
+        "size_in_bytes": 14336
+      },
+      {
+        "_path": "Library/bin/wrjpgcom.exe",
+        "path_type": "hardlink",
+        "sha256": "5a17d6ae0e35805504204a983133e09550c2ebf323fc47a25447dedcc5589063",
+        "sha256_in_prefix": "5a17d6ae0e35805504204a983133e09550c2ebf323fc47a25447dedcc5589063",
+        "size_in_bytes": 14848
+      },
+      {
+        "_path": "Library/include/jconfig.h",
+        "path_type": "hardlink",
+        "sha256": "2f7f9b03a8717cdd51239728fb11855f76d7a6f827c2493f64b7d32edc7e9233",
+        "sha256_in_prefix": "2f7f9b03a8717cdd51239728fb11855f76d7a6f827c2493f64b7d32edc7e9233",
+        "size_in_bytes": 1553
+      },
+      {
+        "_path": "Library/include/jerror.h",
+        "path_type": "hardlink",
+        "sha256": "7cda61a9413f996ace004b3523381170905be368b8e56067e33f15f178c96319",
+        "sha256_in_prefix": "7cda61a9413f996ace004b3523381170905be368b8e56067e33f15f178c96319",
+        "size_in_bytes": 14588
+      },
+      {
+        "_path": "Library/include/jmorecfg.h",
+        "path_type": "hardlink",
+        "sha256": "4219bd0a1c6a4410c0a5432cf8c9bf7df25a90a78a5bd0057e6bae81792c9bc5",
+        "sha256_in_prefix": "4219bd0a1c6a4410c0a5432cf8c9bf7df25a90a78a5bd0057e6bae81792c9bc5",
+        "size_in_bytes": 14925
+      },
+      {
+        "_path": "Library/include/jpegint.h",
+        "path_type": "hardlink",
+        "sha256": "43d711c8fd4a877d18a19af895974234fae71ec7331a6676d06be7759ce2c01d",
+        "sha256_in_prefix": "43d711c8fd4a877d18a19af895974234fae71ec7331a6676d06be7759ce2c01d",
+        "size_in_bytes": 17972
+      },
+      {
+        "_path": "Library/include/jpeglib.h",
+        "path_type": "hardlink",
+        "sha256": "3d5483da25be359de001c47a8254d69bbf91dbca8ce9aa1028485320107cbcfd",
+        "sha256_in_prefix": "3d5483da25be359de001c47a8254d69bbf91dbca8ce9aa1028485320107cbcfd",
+        "size_in_bytes": 49408
+      },
+      {
+        "_path": "Library/lib/jpeg.lib",
+        "path_type": "hardlink",
+        "sha256": "7969af4b9a93e74a7f2edd0efc88b5b061547935709d1fed30d714a890a2426b",
+        "sha256_in_prefix": "7969af4b9a93e74a7f2edd0efc88b5b061547935709d1fed30d714a890a2426b",
+        "size_in_bytes": 628330
+      },
+      {
+        "_path": "Library/lib/libjpeg.lib",
+        "path_type": "hardlink",
+        "sha256": "b3999c38a56eac5d621f8cdd33224d274f57e2c6b1fbbc24bc2713149daa530c",
+        "sha256_in_prefix": "b3999c38a56eac5d621f8cdd33224d274f57e2c6b1fbbc24bc2713149daa530c",
+        "size_in_bytes": 36976
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libjpeg.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/jpeg_1656500809683/_h_env",
+        "sha256": "17daa415a845aeadfc6f33e078136f8c500d5e182b636c52bc540a309d1be6d4",
+        "sha256_in_prefix": "ddf635a9732b1b061aa2b937c8ebfcc8e7b1832c827c2f4a2c6e82a86fe3f4a8",
+        "size_in_bytes": 253
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "78d6cc57536f0fc1e824a0aebfd3b2524f0f1e8c2b908024b8c08464387f1fe2",
+  "size": 374749,
+  "subdir": "win-64",
+  "timestamp": 1656501516281,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/jpeg-9e-h8ffe710_2.tar.bz2",
+  "version": "9e"
+}
