@@ -7,7 +7,7 @@ Connect with me on social media and explore my work:
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/iamsamkhan)
 [![Medium](https://img.shields.io/badge/Medium-Follow-03a57a?style=flat-square&logo=medium)](https://medium.com/@iamsamkhan)
 [![Twitter](https://img.shields.io/twitter/follow/iamsamkhan__?style=social)](https://twitter.com/iamsamkhan__)
-[![Shamshad ahmed](https://img.shields.io/badge/Sponsor-sam-khan-28a745?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/iamsamkhan)
+[![Shamshad ahmed](https://img.shields.io/badge/Sponsor-sam_khan-28a745?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/iamsamkhan)
 
 **Special Thanks to GitHub Sponsors**
 
@@ -16,7 +16,7 @@ Connect with me on social media and explore my work:
 
 The Smart Applicant Tracking System (ATS) is a cutting-edge tool designed to enhance the resume evaluation process. Leveraging advanced Generative AI models from Google, the system empowers users to submit their resumes for a comprehensive analysis based on a provided job description. The system, equipped with a keen understanding of the tech industry, including software engineering, data science, and big data engineering, evaluates resumes in the highly competitive job market. Users can upload their resumes in PDF format, and the system extracts relevant information using PyPDF2. The generated response includes a percentage match with the job description, a list of missing keywords, and a refined profile summary. This innovative solution aims to assist individuals in improving their resumes for optimal performance in the competitive job landscape. The Streamlit web application provides a user-friendly interface, making the resume enhancement process efficient and accessible.
 
-View Live Demo of this project: [Click Here](https://github.com/iamsamkhan/AI_Resume-Analyzer.git-application-tracking-system-app.py/
+View Live Demo of this project: [Click Here](https://airesume-analyzer-famgnfjlsazqseyndevybd.streamlit.app/
 
 ## Installation Steps
 
