@@ -1,5 +1,5 @@
 ## AI_Resume-Analyzer
-By [<b>shamshad ahmed</b>](https://iamsmakhan.netlify.app)
+By [<b>shamshad ahmed</b>](smshad0001@gmail.com)
 
 Connect with me on social media and explore my work:
 
